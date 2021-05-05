@@ -1,0 +1,16 @@
+body{
+    background-color: #f0f2f5;
+}
+strong{
+    font-size: 58px;
+    color: #1877f2;
+}
+p{
+    font-size: 26px;
+}
+.container{
+    padding-top: 80px;
+}
+.card{
+    border-radius: 10px !important;
+}
